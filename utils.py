@@ -1,5 +1,5 @@
 def iou_polygons(a, b):
-    ''' Calculate Intersection Over Union (IOU) ofr two polygones a & b.
+    ''' Calculates Intersection Over Union (IOU) ofr two polygones a & b.
         a and b should be a list of tuples of vertices [(x1,y1),...,(x22,y22)] 
         like this:
             
