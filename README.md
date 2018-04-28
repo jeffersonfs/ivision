@@ -3,7 +3,7 @@
 ## Get-IN
 <div id="dataset"></div> Datasets
 
-- [16k real cars annotated with Make, Model, Year].
+- 16k real cars annotated with Make, Model, Year.
 https://ai.stanford.edu/~jkrause/cars/car_dataset.html
 ![alt text](https://ai.stanford.edu/~jkrause/cars/class_montage.jpg)
 
