@@ -24,3 +24,7 @@ https://medusa.fit.vutbr.cz/traffic/research-topics/detection-of-vehicles-and-da
 - VIRTUAL KITTI Dataset: 
 http://www.europe.naverlabs.com/Research/Computer-Vision/Proxy-Virtual-Worlds
 ![alt text](http://www.europe.naverlabs.com/var/siteaccesses/storage/images/xrce-homepage/object_detection_multiobject_tracking_ground_truth/883090-1-eng-GB/object_detection_multiobject_tracking_ground_truth_backgroundimage.png)
+
+- PKU VehicleID dataset: <p>The “VehicleID” dataset contains data captured during daytime by <strong>multiple real-world surveillance cameras</strong> distributed in a small city in China.</p>.
+https://pkuml.org/resources/pku-vehicleid.html
+![alt_text](https://pkuml.org/wp-content/uploads/2016/06/Screen-Shot-2016-08-01-at-12.46.07-PM.png)
